@@ -34,7 +34,7 @@ export const MovieDetail = () => {
         mt="50px"
         borderRadius="10px"
         color="black"
-        padding="2%"
+        padding="5%"
         display="flex"
         key={details.id}
       >
